@@ -19,4 +19,4 @@ width="450">
 
 
 # Historia de Internet Explore 6 en video?
-[Enlace a youtube](https://youtu.be/o1FUPpTuXFE/ "La historia de internet explore")
+[Enlace a YouTube para ver la historia de internet explore](https://youtu.be/o1FUPpTuXFE/ "La historia de internet explore")
