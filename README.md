@@ -12,4 +12,8 @@ Es un navegador web desarrollado por Microsoft y que se incluía como parte de l
 4. __Competencia mejor:__ Navegadores como Firefox y luego Chrome salieron con mejor velocidad, seguridad y funciones más útiles, lo que hizo que la gente dejara de usar IE6.
 5. __Mal rendimiento:__ Navegar en IE6 era más lento y menos cómodo en comparación con los navegadores más modernos.
 
-![INTERNET EXPLORE SU FINAL](https://github.com/PERELZA/Internet-Explorer-6/blob/main/no%20mas%20ie16.png "INTERNET EXPLORE FINAL")
+<div align="center">
+ <img src="https://github.com/PERELZA/Internet-Explorer-6/blob/main/no%20mas%20ie16.png" alt="flujo de trabajo")
+width="450">
+</div>
+
