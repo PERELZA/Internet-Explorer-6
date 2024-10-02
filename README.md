@@ -17,3 +17,6 @@ Es un navegador web desarrollado por Microsoft y que se incluía como parte de l
 width="450">
 </div>
 
+
+# Historia de Internet Explore 6 en video?
+[Enlace a youtube](https://youtu.be/o1FUPpTuXFE/ "La historia de internet explore")
